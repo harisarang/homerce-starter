@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.ais-GeoSearch-map {
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+}
+
+.ais-GeoSearch {
+  width: 100vw;
+  padding: 0 100px;
+  height: 600px;
+}
